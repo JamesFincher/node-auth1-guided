@@ -115,11 +115,11 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-# Mac cruft
+# Mac files
 .DS_Store
 
-# Removes database
-auth.db3
+# VSCode settings
+.vscode/
 
-VSCode debugger settings
-.vscode
+# testing db
+testing.db3
